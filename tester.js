@@ -7,3 +7,5 @@ let total = another + something;
 let orange = 5;
 
 let red = 8;
+
+let brown = 14;
